@@ -4,5 +4,5 @@
 ## 推荐的线性代数视频
   [线性代数本质](https://space.bilibili.com/88461692/#!/channel/detail?cid=9450)
 
-## 推荐的花书】
+## 推荐的花书
   [花书](https://github.com/exacity/deeplearningbook-chinese)
