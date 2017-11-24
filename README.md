@@ -11,3 +11,10 @@
 
 ## 推荐的花书
   [花书](https://github.com/exacity/deeplearningbook-chinese)
+
+
+## 第四章学前参考
+##### LSTM 
+经典原文: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+补充文章: https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714
+
